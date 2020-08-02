@@ -28,3 +28,7 @@ async def random(ctx, numone: int, numtwo: int):
 
 
 bot.run("YOUR-TOKEN-HERE")
+
+
+
+NzM5NDA2MTExNjgxMDE5OTM1.XyZ_mg._JX67fBoYGfucWIbdETS2BSzVV8
