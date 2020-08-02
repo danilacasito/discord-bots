@@ -27,4 +27,4 @@ async def random(ctx, numone: int, numtwo: int):
     await ctx.send(random.randint(numone, numtwo))
 
 
-bot.run("NzM5NDA2MTExNjgxMDE5OTM1.XyZ_mg.zWfRegEy__lUM5fMzDSYxppk08w")
+bot.run("YOUR-TOKEN-HERE")
